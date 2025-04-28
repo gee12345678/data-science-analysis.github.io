@@ -7,9 +7,7 @@
 Hi! I'm **Glenda Makamadze**, an aspiring Data Analyst passionate about transforming raw data into meaningful insights.  
 I enjoy working on data analysis projects, building visualizations, and learning new technologies in the data world.
 
-<p align="center">
-  <img src="images/picp.jpg" alt="Glenda Makamadze" width="200" style="border-radius: 50%;">
-</p>
+
 
 ---
 
