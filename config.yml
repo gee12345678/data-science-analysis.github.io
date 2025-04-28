@@ -1,4 +1,4 @@
 title : Glenda Makamadze
-logo :picp.jpg
+logo :/assets/img/headshot_circle/picp.jpg
 description : Data analysis project using Jupyter Notebook and Python. Cleaned and explored a CSV dataset to find trends and create visual insights using Pandas and Matplotlib.
 theme : jekyll-theme-minimal
