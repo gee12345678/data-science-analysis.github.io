@@ -1,4 +1,23 @@
-title : Glenda Makamadze
-logo :/assets/img/headshot_circle/picp.jpg
-description : Data analysis project using Jupyter Notebook and Python. Cleaned and explored a CSV dataset to find trends and create visual insights using Pandas and Matplotlib.
-theme : jekyll-theme-minimal
+title: Glenda Makamadze - Data Analyst | Python Enthusiast
+description: Data analysis project using Jupyter Notebook and Python. Cleaned and explored a CSV dataset to find trends and create visual insights using Pandas and Matplotlib.
+logo: "/assets/img/headshot_circle/picp.jpg"
+theme: tale
+
+# Navigation links
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Projects"
+    link: "/projects"
+  - name: "Contact"
+    link: "/contact"
+
+# Social Links (Optional)
+social:
+  twitter: "https://twitter.com/yourusername"
+  linkedin: "https://www.linkedin.com/in/yourusername"
+  github: "https://github.com/yourusername"
+
+# Site URL (Optional)
+url: "https://your-website.com"  # Replace with your actual website URL
+baseurl: ""  # Leave empty unless deploying to a sub-folder
