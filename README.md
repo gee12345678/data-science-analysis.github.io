@@ -1,5 +1,5 @@
 # Glenda Makamadze
-## Data Science & Emerging Technologies Specialist
+## Data Science & Emerging Technologies Specialist 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/glenda-makamadze/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:glendamakamadze18@gmail.com)
