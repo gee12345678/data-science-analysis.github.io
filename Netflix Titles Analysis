@@ -1,0 +1,82 @@
+# Netflix Titles Analysis
+
+## Project Overview
+This project analyzes the Netflix dataset from Kaggle to uncover insights about content trends, viewer preferences, and production patterns. Using Python and data visualization tools, I explore various aspects of Netflix's content library to provide actionable insights for content strategy.
+
+## Dataset
+The dataset used in this analysis is the "Netflix Movies and TV Shows" dataset from Kaggle, which contains information about movies and TV shows available on Netflix as of 2021, including:
+- Title, director, and cast information
+- Release year, country, and rating
+- Duration, genre, and description
+
+## Technologies Used
+- Python 3.8+
+- Pandas for data manipulation
+- NumPy for numerical operations
+- Matplotlib and Seaborn for visualization
+- Jupyter Notebooks for analysis documentation
+
+## Repository Structure
+```
+netflix-titles-analysis/
+├── data/
+│   ├── netflix_titles.csv (raw data)
+│   └── netflix_titles_cleaned.csv (processed data)
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_exploratory_analysis.ipynb
+│   └── 03_content_trends.ipynb
+├── visualizations/
+│   ├── genre_distribution.png
+│   ├── content_by_year.png
+│   └── country_production.png
+├── README.md
+└── requirements.txt
+```
+
+## Key Findings
+1. Content growth trends over time
+2. Most common genres and their popularity trends
+3. Geographic distribution of content production
+4. Seasonal patterns in content releases
+5. Duration analysis for movies and TV shows
+
+## Visualizations
+The project includes several visualizations to represent the analysis findings:
+
+### Content Growth by Year
+![Content Growth](visualizations/content_by_year.png)
+
+### Genre Distribution
+![Genre Distribution](visualizations/genre_distribution.png)
+
+### Top Production Countries
+![Production Countries](visualizations/country_production.png)
+
+## Getting Started
+To run this analysis on your local machine:
+
+```bash
+# Clone the repository
+git clone https://github.com/glendamakamadze/netflix-titles-analysis.git
+cd netflix-titles-analysis
+
+# Install required packages
+pip install -r requirements.txt
+
+# Run Jupyter notebooks
+jupyter notebook
+```
+
+## Future Work
+- Add sentiment analysis of content descriptions
+- Create interactive dashboard with Plotly
+- Perform recommendation system analysis
+- Compare with datasets from other streaming platforms
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+- Kaggle for providing the dataset
+- Netflix for creating the content that makes this analysis possible
