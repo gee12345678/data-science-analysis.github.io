@@ -1,0 +1,99 @@
+# Data Visualization Portfolio
+
+## Overview
+This repository showcases my data visualization skills using various tools and technologies. It contains examples of visualizations created with Python libraries, Power BI, and Tableau, demonstrating my ability to transform complex data into meaningful visual insights.
+
+## Portfolio Contents
+
+### Python Visualizations
+- **Matplotlib & Seaborn Examples**: Statistical visualizations including heatmaps, pair plots, distribution plots, and correlation matrices
+- **Plotly Interactive Charts**: Interactive dashboards and complex visualizations
+- **Geographic Mapping**: Visualizations using GeoPandas and Folium
+
+### Power BI Dashboards
+- **Sales Performance Dashboard**: Interactive sales metrics visualization
+- **HR Analytics Dashboard**: Employee performance and retention analysis
+- **Financial Analysis Dashboard**: Profit and loss visualization with forecasting
+
+### Tableau Projects
+- **Customer Segmentation Analysis**: Visual representation of customer segments
+- **Supply Chain Visualization**: End-to-end supply chain performance metrics
+- **Market Basket Analysis**: Product association visualization
+
+## Repository Structure
+```
+data-viz-portfolio/
+├── python-visualizations/
+│   ├── matplotlib_examples/
+│   ├── seaborn_examples/
+│   ├── plotly_examples/
+│   └── geographic_mapping/
+├── power-bi/
+│   ├── sales_dashboard/
+│   ├── hr_analytics/
+│   └── financial_analysis/
+├── tableau/
+│   ├── customer_segmentation/
+│   ├── supply_chain/
+│   └── market_basket/
+├── datasets/
+│   └── (sample datasets used for visualizations)
+├── images/
+│   └── (static images of visualizations)
+├── README.md
+└── requirements.txt
+```
+
+## Skills Demonstrated
+- Data preprocessing for effective visualization
+- Color theory and visual design principles
+- Interactive dashboard creation
+- Storytelling through data visualization
+- Custom visualization development
+- Multi-dimensional data representation
+
+## Featured Visualizations
+
+### Sales Performance Dashboard (Power BI)
+![Sales Dashboard](images/sales_dashboard.png)
+
+### Customer Segmentation (Tableau)
+![Customer Segmentation](images/customer_segments.png)
+
+### Correlation Matrix (Seaborn)
+![Correlation Matrix](images/correlation_matrix.png)
+
+### Geographic Sales Distribution (Folium)
+![Geographic Distribution](images/geo_distribution.png)
+
+## Tools & Technologies
+- **Python Libraries**: Matplotlib, Seaborn, Plotly, Folium, GeoPandas
+- **Business Intelligence**: Power BI, Tableau
+- **Additional Tools**: Excel for data preparation
+
+## Usage
+Each visualization project includes:
+- Source code or workbook files
+- Documentation explaining the visualization choices
+- Sample datasets or instructions to obtain them
+- Requirements and dependencies
+
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/glendamakamadze/data-viz-portfolio.git
+cd data-viz-portfolio
+
+# Install required packages for Python examples
+pip install -r requirements.txt
+```
+
+## Future Additions
+- D3.js interactive web visualizations
+- R-based statistical visualizations
+- Industry-specific dashboard templates
+- Comparison studies of visualization techniques
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
