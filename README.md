@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/glenda-makamadze/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:glendamakamadze18@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://your-portfolio-url.com)
 
 ## About Me
 
@@ -40,7 +39,7 @@ Focus Areas: Data Science, Machine Learning, Big Data Analytics, IoT
 
 ## 🏆 Certifications
 
-- [Google Data Analytics](https://www.coursera.org/account/accomplishments/verify/WWMRXXC72HCL) (Coursera)
+- Google Data Analytics (Coursera) - [Credential ID: WWMRXXC72HCL]
 - Data Analytics Essentials - Cisco Networking Academy
 - Data Analysis with Python - Cognitive Class
 - Introduction to Data Science - Cisco
@@ -50,22 +49,72 @@ Focus Areas: Data Science, Machine Learning, Big Data Analytics, IoT
 
 ## 🔍 Featured Projects
 
-### Data Analysis Dashboard (2024)
-- Developed interactive dashboards using Power BI to visualize complex datasets
-- Implemented data cleaning and transformation processes using Python
-- [View Project](https://github.com/glendamakamadze/data-analysis-dashboard)
+### Netflix Titles Analysis (2024)
+- Performed exploratory data analysis on a Netflix dataset from Kaggle
+- Applied data cleaning techniques and statistical analysis using Python (Pandas, NumPy)
+- Created visualizations to identify content trends and viewer preferences
+- **Repository**: [netflix-titles-analysis](https://github.com/glendamakamadze/netflix-titles-analysis)
 
-### Machine Learning Classification Model (2023)
-- Built and optimized machine learning models for predictive analytics
-- Utilized scikit-learn to implement various classification algorithms
-- Achieved 89% accuracy on test data
-- [View Project](https://github.com/glendamakamadze/ml-classification)
+**Key Features:**
+- Content growth analysis by year and country
+- Genre distribution visualization
+- Rating distribution analysis
+- Movie duration and TV show season analysis
+- Comprehensive data cleaning pipeline
 
-### IoT Weather Monitoring System (2023)
-- Designed and implemented an IoT-based weather monitoring solution
-- Used Python for data processing and analysis
-- Created real-time visualization of sensor data
-- [View Project](https://github.com/glendamakamadze/iot-weather-monitor)
+**Sample Code:**
+```python
+def explore_netflix_content(df):
+    """
+    Perform exploratory analysis on Netflix content types and trends
+    """
+    # Content type distribution
+    plt.figure(figsize=(10, 6))
+    content_counts = df['type'].value_counts()
+    content_counts.plot(kind='bar', color=['#E50914', '#564D4D'])
+    plt.title('Distribution of Content Type on Netflix', fontsize=16)
+    plt.xlabel('Content Type', fontsize=14)
+    plt.ylabel('Count', fontsize=14)
+    plt.tight_layout()
+    
+    # Additional visualizations and analysis...
+```
+
+### Data Visualization Portfolio (2024)
+- Showcases various data visualization techniques using Python and BI tools
+- Includes interactive dashboards created with Power BI and Tableau
+- Features examples of matplotlib and seaborn visualizations for statistical insights
+- **Repository**: [data-viz-portfolio](https://github.com/glendamakamadze/data-viz-portfolio)
+
+**Portfolio Contents:**
+- Python Visualizations (Matplotlib, Seaborn, Plotly)
+- Power BI Dashboards (Sales, HR Analytics, Financial Analysis)
+- Tableau Projects (Customer Segmentation, Supply Chain)
+- Geographic Mapping Visualizations
+
+### Machine Learning Mini-Projects (2023)
+- Collection of practical ML applications using scikit-learn
+- Includes classification, regression, and clustering examples
+- Demonstrates model evaluation techniques and hyperparameter tuning
+- **Repository**: [ml-mini-projects](https://github.com/glendamakamadze/ml-mini-projects)
+
+**Project Categories:**
+- **Classification:** Customer Churn Prediction, Sentiment Analysis
+- **Regression:** House Price Prediction, Sales Forecasting
+- **Clustering:** Customer Segmentation, Anomaly Detection
+- **Model Evaluation:** Cross-Validation, Hyperparameter Tuning
+
+### Python Data Analysis Templates (2023)
+- Ready-to-use templates for common data analysis tasks
+- Includes data cleaning, preprocessing, and exploratory analysis workflows
+- Demonstrates best practices for data manipulation with Python
+- **Repository**: [python-data-templates](https://github.com/glendamakamadze/python-data-templates)
+
+**Template Categories:**
+- Data Cleaning (Missing Values, Outliers, Type Conversion)
+- Exploratory Data Analysis (Automated Reports, Feature Relationships)
+- Data Transformation (Feature Engineering, Scaling, Dimensionality Reduction)
+- Visualization Templates (Statistical Plots, Multivariate Analysis)
 
 ## 🌱 Currently Learning
 
