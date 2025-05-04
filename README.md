@@ -62,23 +62,7 @@ Focus Areas: Data Science, Machine Learning, Big Data Analytics, IoT
 - Movie duration and TV show season analysis
 - Comprehensive data cleaning pipeline
 
-**Sample Code:**
-```python
-def explore_netflix_content(df):
-    """
-    Perform exploratory analysis on Netflix content types and trends
-    """
-    # Content type distribution
-    plt.figure(figsize=(10, 6))
-    content_counts = df['type'].value_counts()
-    content_counts.plot(kind='bar', color=['#E50914', '#564D4D'])
-    plt.title('Distribution of Content Type on Netflix', fontsize=16)
-    plt.xlabel('Content Type', fontsize=14)
-    plt.ylabel('Count', fontsize=14)
-    plt.tight_layout()
-    
-    # Additional visualizations and analysis...
-```
+
 
 ### Data Visualization Portfolio (2024)
 - Showcases various data visualization techniques using Python and BI tools
@@ -123,9 +107,7 @@ def explore_netflix_content(df):
 - Advanced Data Engineering Pipelines
 - Natural Language Processing
 
-## 📊 GitHub Stats
 
-![Glenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=glendamakamadze&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
