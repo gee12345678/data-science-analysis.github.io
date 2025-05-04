@@ -53,7 +53,7 @@ Focus Areas: Data Science, Machine Learning, Big Data Analytics, IoT
 - Performed exploratory data analysis on a Netflix dataset from Kaggle
 - Applied data cleaning techniques and statistical analysis using Python (Pandas, NumPy)
 - Created visualizations to identify content trends and viewer preferences
-- **Repository**: [netflix-titles-analysis](https://github.com/glendamakamadze/netflix-titles-analysis)
+- **Repository**: [Netflix_Titles_Analysis_project](https://github.com/glendamakamadze/netflix-titles-analysis)
 
 **Key Features:**
 - Content growth analysis by year and country
