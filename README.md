@@ -155,7 +155,8 @@ This project analyzes a dataset of YouTube video performance, focusing on metric
 - Images: Snapshots of charts (optional)
 
 ### 📌 View Project:
-👉 [View Jupyter Notebook on GitHub](https://github.com/yourusername/your-repo-name/blob/main/youtube-analysis.ipynb))
+👉 [View Jupyter Notebook on GitHub](👉 [View Jupyter Notebook on GitHub](https://github.com/gee12345678/data-viz-portfolio/blob/main/Untitled28.ipynb)
+
 
 
 **Template Categories:**
