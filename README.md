@@ -155,7 +155,7 @@ This project analyzes a dataset of YouTube video performance, focusing on metric
 - Images: Snapshots of charts (optional)
 
 ### 📌 View Project:
-📘 [View My Jupyter Notebook]([https://github.com/gee12345678/data-science-analysis.github.io/blob/main/Untitled28.ipynb](http://localhost:8890/notebooks/Untitled28.ipynb)
+📘 [View My Jupyter Notebook](https://github.com/gee12345678/data-science-analysis.github.io/blob/main/getting_started_tutorials/cudf_pandas_colab_demo.ipynb)
 
 
 
