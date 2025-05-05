@@ -94,6 +94,70 @@ Focus Areas: Data Science, Machine Learning, Big Data Analytics, IoT
 - Demonstrates best practices for data manipulation with Python
 - **Repository**: [python-data-templates](https://github.com/glendamakamadze/python-data-templates)
 
+
+## 📊 YouTube Data Analysis (Jupyter Notebook)
+
+This project analyzes a dataset of YouTube video performance, focusing on metrics such as view count, like ratio, comment activity, and publishing trends over time. The goal is to uncover insights about what contributes to video success on the platform.
+
+### 🔍 Key Objectives:
+- Identify the best-performing videos based on views and engagement
+- Analyze publishing trends by month
+- Visualize correlations between likes, views, and comments
+- Determine the impact of tags, titles, and categories on video performance
+
+### 🛠️ Tools & Libraries Used:
+- **Python** (for data processing and visualization)
+- **Jupyter Notebook** (for code + commentary)
+- **Pandas** (for data cleaning and manipulation)
+- **Matplotlib** & **Seaborn** (for visualizations)
+- **Plotly** (for interactive charts)
+- **NumPy** (for numeric calculations)
+
+### 📈 Sample Visualizations:
+- Correlation heatmaps
+- Bar plots for monthly video uploads
+- Pie charts for category distribution
+- Distribution of likes and comments
+
+### 📁 Files:
+- `youtube-analysis.ipynb`: The Jupyter Notebook with full analysis
+- Dataset: YouTube video data (uploaded or linked if too large)
+- Images: Snapshots of charts (optional)
+
+### 📌 View Project:
+👉 [View Jupyter Notebook on GitHub](## 📊 YouTube Data Analysis (Jupyter Notebook)
+
+This project analyzes a dataset of YouTube video performance, focusing on metrics such as view count, like ratio, comment activity, and publishing trends over time. The goal is to uncover insights about what contributes to video success on the platform.
+
+### 🔍 Key Objectives:
+- Identify the best-performing videos based on views and engagement
+- Analyze publishing trends by month
+- Visualize correlations between likes, views, and comments
+- Determine the impact of tags, titles, and categories on video performance
+
+### 🛠️ Tools & Libraries Used:
+- **Python** (for data processing and visualization)
+- **Jupyter Notebook** (for code + commentary)
+- **Pandas** (for data cleaning and manipulation)
+- **Matplotlib** & **Seaborn** (for visualizations)
+- **Plotly** (for interactive charts)
+- **NumPy** (for numeric calculations)
+
+### 📈 Sample Visualizations:
+- Correlation heatmaps
+- Bar plots for monthly video uploads
+- Pie charts for category distribution
+- Distribution of likes and comments
+
+### 📁 Files:
+- `youtube-analysis.ipynb`: The Jupyter Notebook with full analysis
+- Dataset: YouTube video data (uploaded or linked if too large)
+- Images: Snapshots of charts (optional)
+
+### 📌 View Project:
+👉 [View Jupyter Notebook on GitHub](https://github.com/yourusername/your-repo-name/blob/main/youtube-analysis.ipynb))
+
+
 **Template Categories:**
 - Data Cleaning (Missing Values, Outliers, Type Conversion)
 - Exploratory Data Analysis (Automated Reports, Feature Relationships)
