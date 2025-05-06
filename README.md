@@ -140,9 +140,6 @@ This project analyzes a dataset of YouTube video performance, focusing on metric
 - Dataset: YouTube video data (uploaded or linked if too large)
 - Images: Snapshots of charts (optional)
 
-### 📌 View Project:
-👉 [View Jupyter Notebook on GitHub](## 📊 YouTube Data Analysis (Jupyter Notebook)
-
 This project analyzes a dataset of YouTube video performance, focusing on metrics such as view count, like ratio, comment activity, and publishing trends over time. The goal is to uncover insights about what contributes to video success on the platform.
 
 ### 🔍 Key Objectives:
