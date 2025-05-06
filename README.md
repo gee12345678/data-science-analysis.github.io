@@ -49,50 +49,60 @@ Focus Areas: Data Science, Machine Learning, Big Data Analytics, IoT
 
 ## 🔍 Featured Projects
 
-### Netflix Titles Analysis (2024)
-- Performed exploratory data analysis on a Netflix dataset from Kaggle
-- Applied data cleaning techniques and statistical analysis using Python (Pandas, NumPy)
-- Created visualizations to identify content trends and viewer preferences
-- **Repository**: [Netflix_Titles_Analysis_project](https://github.com/glendamakamadze/netflix-titles-analysis)
+📊 Superstore Sales Analysis (Power BI & Python)
+This project explores a Superstore dataset to uncover key insights into product performance, regional trends, and customer behavior. The analysis is performed using Python (pandas) for data processing and Power BI for powerful, interactive visualizations.
 
-**Key Features:**
-- Content growth analysis by year and country
-- Genre distribution visualization
-- Rating distribution analysis
-- Movie duration and TV show season analysis
-- Comprehensive data cleaning pipeline
+🔍 Key Objectives:
+Identify top-performing product categories and sub-categories
 
+Compare sales trends across different regions
 
+Analyze order trends over time
 
-### Data Visualization Portfolio (2024)
-- Showcases various data visualization techniques using Python and BI tools
-- Includes interactive dashboards created with Power BI and Tableau
-- Features examples of matplotlib and seaborn visualizations for statistical insights
-- **Repository**: [data-viz-portfolio](https://github.com/glendamakamadze/data-viz-portfolio)
+Visualize data insights for business decision-making
 
-**Portfolio Contents:**
-- Python Visualizations (Matplotlib, Seaborn, Plotly)
-- Power BI Dashboards (Sales, HR Analytics, Financial Analysis)
-- Tableau Projects (Customer Segmentation, Supply Chain)
-- Geographic Mapping Visualizations
+🛠️ Tools & Technologies Used:
+Python – data manipulation and preparation
 
-### Machine Learning Mini-Projects (2023)
-- Collection of practical ML applications using scikit-learn
-- Includes classification, regression, and clustering examples
-- Demonstrates model evaluation techniques and hyperparameter tuning
-- **Repository**: [ml-mini-projects](https://github.com/glendamakamadze/ml-mini-projects)
+pandas – cleaning and transforming data
 
-**Project Categories:**
-- **Classification:** Customer Churn Prediction, Sentiment Analysis
-- **Regression:** House Price Prediction, Sales Forecasting
-- **Clustering:** Customer Segmentation, Anomaly Detection
-- **Model Evaluation:** Cross-Validation, Hyperparameter Tuning
+Power BI – for data visualization and dashboard creation
 
-### Python Data Analysis Templates (2023)
-- Ready-to-use templates for common data analysis tasks
-- Includes data cleaning, preprocessing, and exploratory analysis workflows
-- Demonstrates best practices for data manipulation with Python
-- **Repository**: [python-data-templates](https://github.com/glendamakamadze/python-data-templates)
+Jupyter Notebook – for initial exploration (optional)
+
+📈 Sample Visualizations:
+✅ Sales by Sub-Category
+Visualizes which products generate the most revenue
+
+Phones, Chairs, and Storage show the highest sales
+
+🗺️ Sales by Region
+Compares performance across West, East, Central, and South
+
+West region dominates in total sales
+
+📁 Project Files:
+superstore_analysis.ipynb – optional Jupyter Notebook with Python data prep
+
+PowerBI_Dashboard.pbix – Power BI report file
+
+/visuals/ – screenshots of dashboard charts
+
+README.md – this documentation file
+
+📌 View Project:
+https://github.com/gee12345678/data-science-analysis.github.io/blob/main/Superstore_.ipynb
+[🖥️ View Dashboard & Files on GitHub](https://imgur.com/a/GPtX78w)
+
+Template Categories:
+
+Data Cleaning (null values, data types, outlier handling)
+
+Business Intelligence Dashboards (interactive charts, slicers)
+
+Regional Performance Analysis (map and bar visuals)
+
+Product Analysis (category-level sales insights)
 
 
 ## 📊 YouTube Data Analysis (Jupyter Notebook)
