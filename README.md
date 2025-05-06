@@ -96,7 +96,7 @@ README.md – this documentation file
 
 ###  📌 View Project:
 
-https://github.com/gee12345678/data-science-analysis.github.io/blob/main/Superstore_.ipynb
+[view python code](https://github.com/gee12345678/data-science-analysis.github.io/blob/main/Superstore_.ipynb)
 
 [🖥️ View Dashboard & Files on GitHub](https://imgur.com/a/GPtX78w)
 
