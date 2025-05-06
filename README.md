@@ -49,10 +49,10 @@ Focus Areas: Data Science, Machine Learning, Big Data Analytics, IoT
 
 ## 🔍 Featured Projects
 
-📊 Superstore Sales Analysis (Power BI & Python)
+##📊 Superstore Sales Analysis (Power BI & Python)
 This project explores a Superstore dataset to uncover key insights into product performance, regional trends, and customer behavior. The analysis is performed using Python (pandas) for data processing and Power BI for powerful, interactive visualizations.
 
-🔍 Key Objectives:
+###🔍 Key Objectives:
 Identify top-performing product categories and sub-categories
 
 Compare sales trends across different regions
@@ -70,7 +70,7 @@ Power BI – for data visualization and dashboard creation
 
 Jupyter Notebook – for initial exploration (optional)
 
-📈 Sample Visualizations:
+###📈 Sample Visualizations:
 ✅ Sales by Sub-Category
 Visualizes which products generate the most revenue
 
@@ -81,7 +81,7 @@ Compares performance across West, East, Central, and South
 
 West region dominates in total sales
 
-📁 Project Files:
+##📁 Project Files:
 superstore_analysis.ipynb – optional Jupyter Notebook with Python data prep
 
 PowerBI_Dashboard.pbix – Power BI report file
@@ -90,11 +90,12 @@ PowerBI_Dashboard.pbix – Power BI report file
 
 README.md – this documentation file
 
-📌 View Project:
+###📌 View Project:
 https://github.com/gee12345678/data-science-analysis.github.io/blob/main/Superstore_.ipynb
+
 [🖥️ View Dashboard & Files on GitHub](https://imgur.com/a/GPtX78w)
 
-Template Categories:
+##Template Categories:
 
 Data Cleaning (null values, data types, outlier handling)
 
