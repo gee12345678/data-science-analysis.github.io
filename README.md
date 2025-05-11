@@ -231,8 +231,7 @@ Highlights areas with the highest reported cases
 ### 📌 View Project:
 
 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/glenda.makamadze/viz/myFirstDashboard_17469682482100/Dashboard3?publish=yes)  
-💻 [View Python Code on GitHub]([https://github.com/gee12345678/YOUR_REPO_NAME/blob/main/crime_analysis.py](https://github.com/gee12345678/data-science-analysis.github.io/blob/main/SA_CRIME_DATA.ipynb)) *
-
+💻 [View Python Code on GitHub](https://github.com/gee12345678/data-science-analysis.github.io/blob/main/SA_CRIME_DATA.ipynb)
 ---
 
 ## 📂 Template Categories:
