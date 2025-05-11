@@ -171,13 +171,76 @@ This project analyzes a dataset of YouTube video performance, focusing on metric
 📘 [View My Jupyter Notebook](https://github.com/gee12345678/data-science-analysis.github.io/blob/main/getting_started_tutorials/cudf_pandas_colab_demo.ipynb)
 
 
-
-
 **Template Categories:**
 - Data Cleaning (Missing Values, Outliers, Type Conversion)
 - Exploratory Data Analysis (Automated Reports, Feature Relationships)
 - Data Transformation (Feature Engineering, Scaling, Dimensionality Reduction)
 - Visualization Templates (Statistical Plots, Multivariate Analysis)
+
+
+
+
+## 📊 South Africa Crime Analysis (Python & Tableau)
+
+This project analyzes crime statistics across South African provinces over multiple years. Using Python for data cleaning and Tableau for visualization, the dashboard offers clear insights into trends and hotspots for better decision-making and awareness.
+
+---
+
+### 🔍 Key Objectives:
+
+- Analyze crime trends by province and year  
+- Visualize high-crime areas using bar, pie, and map charts  
+- Compare different crime categories over time  
+- Build an interactive dashboard for public use
+
+---
+
+### 🛠️ Tools & Technologies Used:
+
+- **Python** – for data loading, cleaning, and transformation  
+- **pandas** – for reshaping the dataset into long format  
+- **Tableau Public** – for interactive dashboards and maps  
+- **Jupyter Notebook / VS Code** – for data prep and scripting  
+
+---
+
+### 📈 Sample Visualizations:
+
+✅ **Crime by Year and Province**  
+Displays changes in reported cases over time across provinces
+
+📌 **Crime Category Distribution (Pie Chart)**  
+Shows the breakdown of crime types (e.g., theft, assault, etc.)
+
+🗺️ **Map Visualization**  
+Provides geographic crime density per province using filled maps
+
+📊 **Top 5 Crime Stations**  
+Highlights areas with the highest reported cases
+
+---
+
+## 📁 Project Files:
+
+- `crime_analysis.py` – Python script for data preparation  
+- `cleaned_crime_long.csv` – Cleaned dataset in long format  
+- `README.md` – this project documentation  
+
+---
+
+### 📌 View Project:
+
+🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/glenda.makamadze/viz/myFirstDashboard_17469682482100/Dashboard3?publish=yes)  
+💻 [View Python Code on GitHub](https://github.com/gee12345678/YOUR_REPO_NAME/blob/main/crime_analysis.py) *(update with your repo URL)*
+
+---
+
+## 📂 Template Categories:
+
+- 📌 Data Cleaning (reshape columns, handle nulls, rename)  
+- 🧠 Crime Trend Analysis (temporal patterns)  
+- 🗺️ Provincial Mapping (spatial crime distribution)  
+- 📊 Interactive Tableau Dashboards (multiple sheets and charts)  
 
 ## 🌱 Currently Learning
 
